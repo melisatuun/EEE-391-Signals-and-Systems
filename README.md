@@ -1,1 +1,1 @@
-# EEE 391 Signals and Systems Homeworks and Projects
+# EEE 391 Basics of Signals and Systems Homeworks and Projects
